@@ -1,2 +1,2 @@
 # cs50
-My problem sets and labs
+My completed problem sets and labs from Harvard's CS50 course taught by David J. Malan.
